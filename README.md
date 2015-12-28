@@ -1,9 +1,9 @@
 # controlboard-nodemcu-switch
-Controlboard.net
+### ControlBoard.net
 
 ![alt tag](https://github.com/tribaltronik/controlboard-nodemcu-switch/blob/master/img/ControlBoardNodeMCUSwitch.jpg)
 
-### ControlBoard.net
+
 
 ##### NodeMCU Switch
 ###### Materials:
