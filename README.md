@@ -1,7 +1,7 @@
 # controlboard-nodemcu-switch
 Controlboard.net
 
-![alt tag](https://github.com/tribaltronik/devkitnodemcu/blob/master/img/ControlBoardNodeMCUSwitch.jpg)
+![alt tag](https://github.com/tribaltronik/controlboard-nodemcu-switch/blob/master/img/ControlBoardNodeMCUSwitch.jpg)
 
 ### ControlBoard.net
 
