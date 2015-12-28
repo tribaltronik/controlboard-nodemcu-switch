@@ -1,0 +1,3 @@
+ssid= "wifissid"
+password= ""
+secretkey= ""
