@@ -5,6 +5,7 @@
 
 
 <iframe width="854" height="480" src="https://www.youtube.com/watch?v=769AEBZbzmE" frameborder="0" allowfullscreen></iframe>
+[![Alt text for your video](https://www.youtube.com/watch?v=769AEBZbzmE)](https://www.youtube.com/watch?v=769AEBZbzmE)
 
 ##### NodeMCU Switch
 ###### Materials:
