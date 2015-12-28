@@ -9,4 +9,4 @@
 ###### Materials:
 - 1 x NodeMCU (ESP8266)
 - 1 x Channel Relay Module 5V
- 
+- 1 x Led RBG
