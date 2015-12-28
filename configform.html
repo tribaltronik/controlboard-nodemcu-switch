@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <h1>NodeMCUKit</h1>
+    <form method='get' action='/'>
+    <h4>Topic ID: ${topicid}mcu</h4>
+    MQTT Secretkey:<input type='secretkey' name='secretkey'></input></br>
+    <h2>Topics MQTT:</h2>
+    ${topicid}mcu/temp</br>
+    ${topicid}mcu/hum</br>
+    ${topicid}mcu/switch</br>
+    <h4>Wifi Config</h4>
+    
+        <table border='0'>
+        <tr><td>Select access point: </td><td><select name='ssid'>${available_aps}</select></td></tr>
+        <tr><td>(or type hidden ssid): </td><td><input name='hiddenssid' value=''/></td></tr>
+        <tr><td>Enter password: </td><td><input type='password' name='password'></input></td></tr>
+        <tr><td colspan=2><button type='submit'>Save</button></td></tr></table>
+    </form>
+</body></html>
